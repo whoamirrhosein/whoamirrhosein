@@ -1,75 +1,35 @@
-<h1 align="center">Hi 👋, I'm Amirhosein Azizi</h1>
+<div align="center">
 
-<p align="center">
-  <b>Linux System Administrator | Infrastructure Support</b>
+# 👋 Hi, I'm Amirhosein
+
+### 🐧 Linux SysAdmin | ⚙️ Infrastructure | 🖥️ Virtualization
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoamirrhosein&style=flat-square&color=blueviolet&label=Profile+Views" />
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-Linux System Administrator & Infrastructure Support Specialist at **Mobin Host**.
-
-I work with Linux servers, virtualization, hosting infrastructure, networking, monitoring, and physical server operations.
-
-Currently focused on growing toward **Infrastructure Engineering & SRE**.
-
----
-
-### 🛠️ Tech Stack
-
-**Linux**
-`Ubuntu` `Debian` `RHEL` `AlmaLinux` `Bash`
-
-**Virtualization**
-`KVM` `Virtualizor` `VMware ESXi` `Proxmox VE`
-
-**Hosting & Web**
-`cPanel/WHM` `DirectAdmin` `Plesk` `Nginx` `Apache` `LiteSpeed`
-
-**Networking & Security**
-`TCP/IP` `DNS` `PTR` `SSH` `UFW` `iptables` `CSF`
-
-**Monitoring & Storage**
-`Netdata` `LVM`
-
----
-
-### 💼 Experience
-
-**Linux Support Engineer — Mobin Host**  
-`2025 – Present`
-
-- Linux server administration & troubleshooting
-- KVM / Virtualizor infrastructure
-- VMware ESXi & Proxmox VE
-- cPanel / DirectAdmin / Plesk
-- DNS & network troubleshooting
-- Physical server deployment & maintenance
-- BIOS / firmware updates
-- Monitoring & infrastructure support
-
----
-
-### 📚 Certifications
-
-- **CompTIA Network+**
-- **LPIC-1 — In Progress**
-
----
-
-### 🎯 Focus
-
-`Linux` → `Infrastructure` → `Virtualization` → `Automation` → `SRE`
-
----
-
-<p align="center">
-  <a href="mailto:imamiriwerd@gmail.com">📧 Email</a>
-  •
-  <a href="https://github.com/whoamirrhosein">GitHub</a>
+<p>
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netdata-00AB6C?style=for-the-badge&logo=netdata&logoColor=white"/>
 </p>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=whoamirrhosein&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+📍 Tehran, Iran • 🏢 Mobin Host
+
+</div>
