@@ -99,15 +99,16 @@ I'm a **Linux System Administrator & Infrastructure Support Specialist** with ha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoamirrhosein&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoamirrhosein&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+
 
 ---
 
 ## 📬 Connect
 
 <p align="center">
-  <a href="mailto:imamiriwerd@gmail.com">
+  <a href="mailto:whoamirra@gmail.com">
     <img src="https://img.shields.io/badge/Email-imamiriwerd-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/whoamirrhosein">
