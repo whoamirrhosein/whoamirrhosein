@@ -1,82 +1,122 @@
-<h1 align="center">Hi there 👋, I'm Amirhosein Azizi</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoamirrhosein&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count" />
-  <a href="https://github.com/whoamirrhosein"><img src="https://img.shields.io/badge/Role-Linux%20SysAdmin-blue?style=flat-square&logo=linux&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Company-Mobin%20Host-orange?style=flat-square&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-green?style=flat-square" />
+<div align="center">
+
+# 👋 Hi there, I'm Amirhosein Azizi
+
+### 🐧 Linux System Administrator | ⚙️ Infrastructure Support | 🖥️ Virtualization
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=whoamirrhosein&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Linux-SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mobin%20Host-2025%20%E2%80%94%20Present-FF6C00?style=for-the-badge&logo=server&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 💻 About Me
+
+I'm a **Linux System Administrator & Infrastructure Support Specialist** with hands-on experience in enterprise hosting environments, virtualization, networking, and physical server infrastructure at **Mobin Host**.
+
+🔧 Linux Administration  
+🖥️ Virtualization & Server Infrastructure  
+🌐 Hosting & Web Services  
+🔐 Networking & Security  
+📊 Monitoring & Troubleshooting  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐧 Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/RHEL-CC0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/AlmaLinux-0F4266?style=for-the-badge&logo=almalinux&logoColor=white" />
+</p>
+
+### ⚡ Virtualization & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualizor-1677FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+</p>
+
+### 🌐 Hosting & Web Servers
+
+<p>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectAdmin-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteSpeed-000000?style=for-the-badge&logo=litespeed&logoColor=white" />
+</p>
+
+### 🛡️ Networking, Security & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=openssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/UFW-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/iptables-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSF-E53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Netdata-00AB6C?style=for-the-badge&logo=netdata&logoColor=white" />
+  <img src="https://img.shields.io/badge/LVM-0052CC?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-### 💻 About Me
-I am a **Linux System Administrator and Infrastructure Support Specialist** with hands-on experience managing enterprise hosting environments, virtualization clusters, and high-availability production Linux infrastructures at **Mobin Host**. Passionate about system hardening, automation, and core infrastructure reliability.
+## 💼 Experience
+
+### 🏢 Linux Support Engineer — Mobin Host
+**2025 — Present**
+
+- 🖥️ Physical & virtual server infrastructure
+- ⚡ KVM / Virtualizor, VMware ESXi & Proxmox VE
+- 🐧 Linux administration & system recovery
+- 🌐 cPanel / DirectAdmin / Plesk
+- 🔧 Nginx / Apache / LiteSpeed
+- 🌍 DNS, PTR & network troubleshooting
+- 🛡️ UFW / iptables / CSF
+- 🔩 Physical server deployment & hardware diagnostics
+- ⚙️ BIOS & firmware updates
 
 ---
 
-### 🛠️ Technical Expertise & Tech Stack
+## 📚 Certifications & Learning
 
-<table align="center">
-<tr>
-  <td align="left" valign="top">
-    <b>🐧 Operating Systems</b><br>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-    <img src="https://img.shields.io/badge/RHEL-CC0000?style=for-the-badge&logo=redhat&logoColor=white">
-    <img src="https://img.shields.io/badge/AlmaLinux-001F3F?style=for-the-badge&logo=almalinux&logoColor=white">
-  </td>
-  <td align="left" valign="top">
-    <b>⚡ Virtualization & Datacenter</b><br>
-    <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
-    <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white">
-  </td>
-</tr>
-<tr>
-  <td align="left" valign="top">
-    <b>🌐 Web Servers & Hosting</b><br>
-    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white">
-    <img src="https://img.shields.io/badge/DirectAdmin-005A9C?style=for-the-badge&logo=directadmin&logoColor=white">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
-    <img src="https://img.shields.io/badge/LiteSpeed-000000?style=for-the-badge&logo=litespeed&logoColor=white">
-  </td>
-  <td align="left" valign="top">
-    <b>🛡️ Security, Monitoring & Tools</b><br>
-    <img src="https://img.shields.io/badge/Netdata-00AB6C?style=for-the-badge&logo=netdata&logoColor=white">
-    <img src="https://img.shields.io/badge/UFW%20%2F%20IPTables-333333?style=for-the-badge&logo=security&logoColor=white">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img src="https://img.shields.io/badge/LVM-0052CC?style=for-the-badge&logo=linux&logoColor=white">
-  </td>
-</tr>
-</table>
+🎓 **Network+** — Networking Fundamentals  
+🐧 **LPIC-1** — In Progress  
+⚙️ **Linux System Administration** — Self Study
 
 ---
 
-### 💼 Professional Experience
+## 📊 GitHub Stats
 
-#### **Linux Support Engineer | Mobin Host** *(2025 - Present)*
-* **Virtualization & Infrastructure:** Managing and maintaining physical and virtual infrastructure (**100+ nodes**) using KVM (Virtualizor), VMware ESXi, and Proxmox VE.
-* **Linux Administration:** Performing root-level management across Ubuntu, Debian, and RHEL environments (LVM, system recovery, maintenance).
-* **Web Hosting & Servers:** Administering cPanel/WHM, DirectAdmin, Plesk, alongside optimizing Apache, Nginx, and LiteSpeed web servers.
-* **Network & Security:** Resolving routing, DNS/PTR issues, and configuring firewall security via UFW, iptables, and CSF.
-* **Hardware Operations:** Deploying physical servers, handling BIOS/firmware updates, and hardware diagnostics.
-
----
-
-### 📚 Certifications & Education
-* **LPIC-1** | Linux Essentials
-* **Network+** | Core Network Fundamentals
-* **Linux System Administration** *(In Progress / Self-Study)*
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoamirrhosein&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoamirrhosein&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 ---
 
-### 📬 Connect with me
-* **Email:** [whoamirra@gmail.com](mailto:whoamirra@gmail.com)
-* **Phone:** +98 912 905 8612
+## 📬 Connect
+
+<p align="center">
+  <a href="mailto:imamiriwerd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-imamiriwerd-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/whoamirrhosein">
+    <img src="https://img.shields.io/badge/GitHub-whoamirrhosein-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<div align="center">
+
+### 🐧 Linux • ⚙️ Infrastructure • 🖥️ Virtualization • 🌐 Networking
+
+</div>
