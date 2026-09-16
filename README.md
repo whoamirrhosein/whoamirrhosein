@@ -9,7 +9,7 @@
 ---
 
 ### 💻 About Me
-I am a **Linux System Administrator and Infrastructure Support Specialist** with hands-on experience managing enterprise hosting environments, virtualization clusters, and high-availability production Linux infrastructures at **Mobin Host**[cite: 1]. Passionate about system hardening, automation, and core infrastructure reliability.
+I am a **Linux System Administrator and Infrastructure Support Specialist** with hands-on experience managing enterprise hosting environments, virtualization clusters, and high-availability production Linux infrastructures at **Mobin Host**. Passionate about system hardening, automation, and core infrastructure reliability.
 
 ---
 
@@ -54,19 +54,19 @@ I am a **Linux System Administrator and Infrastructure Support Specialist** with
 
 ### 💼 Professional Experience
 
-#### **Linux Support Engineer | Mobin Host** *(2025 - Present)*[cite: 1]
-* **Virtualization & Infrastructure:** Managing and maintaining physical and virtual infrastructure (**100+ nodes**) using KVM (Virtualizor), VMware ESXi, and Proxmox VE[cite: 1].
-* **Linux Administration:** Performing root-level management across Ubuntu, Debian, and RHEL environments (LVM, system recovery, maintenance)[cite: 1].
-* **Web Hosting & Servers:** Administering cPanel/WHM, DirectAdmin, Plesk, alongside optimizing Apache, Nginx, and LiteSpeed web servers[cite: 1].
-* **Network & Security:** Resolving routing, DNS/PTR issues, and configuring firewall security via UFW, iptables, and CSF[cite: 1].
-* **Hardware Operations:** Deploying physical servers, handling BIOS/firmware updates, and hardware diagnostics[cite: 1].
+#### **Linux Support Engineer | Mobin Host** *(2025 - Present)*
+* **Virtualization & Infrastructure:** Managing and maintaining physical and virtual infrastructure (**100+ nodes**) using KVM (Virtualizor), VMware ESXi, and Proxmox VE.
+* **Linux Administration:** Performing root-level management across Ubuntu, Debian, and RHEL environments (LVM, system recovery, maintenance).
+* **Web Hosting & Servers:** Administering cPanel/WHM, DirectAdmin, Plesk, alongside optimizing Apache, Nginx, and LiteSpeed web servers.
+* **Network & Security:** Resolving routing, DNS/PTR issues, and configuring firewall security via UFW, iptables, and CSF.
+* **Hardware Operations:** Deploying physical servers, handling BIOS/firmware updates, and hardware diagnostics.
 
 ---
 
 ### 📚 Certifications & Education
-* **LPIC-1** | Linux Essentials[cite: 1]
-* **Network+** | Core Network Fundamentals[cite: 1]
-* **Linux System Administration** *(In Progress / Self-Study)*[cite: 1]
+* **LPIC-1** | Linux Essentials
+* **Network+** | Core Network Fundamentals
+* **Linux System Administration** *(In Progress / Self-Study)*
 
 ---
 
@@ -78,5 +78,5 @@ I am a **Linux System Administrator and Infrastructure Support Specialist** with
 ---
 
 ### 📬 Connect with me
-* **Email:** [imamiriwerd@gmail.com](mailto:imamiriwerd@gmail.com)[cite: 1]
-* **Phone:** +98 912 905 8612[cite: 1]
+* **Email:** [imamiriwerd@gmail.com](mailto:imamiriwerd@gmail.com)
+* **Phone:** +98 912 905 8612****
