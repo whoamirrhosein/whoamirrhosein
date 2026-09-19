@@ -108,8 +108,8 @@ I'm a **Linux System Administrator & Infrastructure Support Specialist** with ha
 ## 📬 Connect
 
 <p align="center">
-  <a href="mailto:whoamirra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-whoamirra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:amirhoseinazizi2007.1385@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amirhoseinazizi2007.1385@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/whoamirrhosein">
     <img src="https://img.shields.io/badge/GitHub-whoamirrhosein-181717?style=for-the-badge&logo=github" />
